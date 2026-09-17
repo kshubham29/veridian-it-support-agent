@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+backend/.env
+
+# Node
+node_modules/
+dist/
+frontend/.env
+.vite/
+
+# Runtime demo state
+data/runtime_state.json
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
